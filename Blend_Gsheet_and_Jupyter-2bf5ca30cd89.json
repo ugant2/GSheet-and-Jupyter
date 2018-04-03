@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blend-gsheet-and-jupyter",
+  "private_key_id": "2bf5ca30cd897c74a93befadb3f75a094bb59de5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDlC/iK5/4sz6y1\nMaPs2kLgz25Z5Lz4Xs16lFSFPkuJFUMMV9aIJDzce/nX3sy37LPWA5/IHo9zhRM+\nfAQ4kRbsYAo5RNs2jZ4Omg3kVnUM6+fyMIhXD6wVvcaNyulQTJ5zqIdY8zSVFis3\ndrnHhSXOnYs3liYSad5yELOKABhHQs8lVowu4gRMBhDgDhte8SNkFsgx23M+nJ7z\nzz5jdvgNrtsoI+z86bNnga7fWjsWqlXzoUuiqFu6INhQxQslXVKhXGCPOPHV2Gsn\neBuYjU5giLlV+O3V2kOQvIo33affVXD3WhpBImXhcO52pVIN+CAjNUqekB/p9LZ8\nQZ/XTYIZAgMBAAECggEAHEjPJ3Agni4DGNkJci09xv82lFk/0Lf8Td/VVCLuNv5u\nKi8KqgM3lM6merbjtu6/AnWuHItRkaVkS/oKl2WrXAM8H/hVzbXNR+ZUQtc+Wxsi\nqHC/1Wh1CrZFt6rQBv9/La8pD53w51w2eAHsTSwvEAW6dGHRT8LNGm7fjPIYDWyB\ny+C9MtljpBY/1rAtqj4K0zSxu/jC4NTSxa7xvhonZaI1V6DZ7ykYi23l7jQU5W1d\nIFstBiBNpPAiKSY854q5UwL7o+GWFp7yz2mLMZKQMTHHvvlJELpK5OyQ7fbbS/lu\nXICvug5wZ1pZtWbsGuCBqUufZpzU1tJ5UpO9lG/OVQKBgQD6E/WajeY+Hbta/8wr\n66x+li/wuHHUQqemUl8sMBYx0Rr2Si0VAPpAf29m5rdmf1zw7IGegmGM+ElWSqLo\ndu+A2uf7MGtD7smVdHLRfvRue06VEKF5rjkROCSamFd5PkSqZPrdveI9ZvOWvoy4\nEJneWAYnb/Y35o2BwUz8WJ/VMwKBgQDqeIO8qGYC7m4DsYEoN4Ym7n+IV0QD1z3F\nBbiXJlEyC9AvlnACVuCPM2fNrXo2IP1IwecbEgAFmZS6owRN9hZ8qT+UwoBOxxuy\nCc71KeU+Cm1zfGF63EUwudkigLB/dHj+T1d6raHzV8PhdDF65suHjJMrFSlYKSFr\nrIeAmUzzgwKBgQDRcXX5g26aB3yqsiHlhvRo8JAmI9Px2gFfIw3ijEOKZX8XVvh6\n5t6wtgovPHvNtE262dmVT80zq56ATvIxj6r3WF+B2QN9WbgrG+Qt4Q4Gme8umUck\nCe5xpXvCnmRkfuoza29P14BrvJW2YtCoN/8mYMKGtRaZqtZJHgPENNVoUQJ/dxC7\n1RGuu85YD4gUDlgjx6FVIecuosSqmWJOWnMayE83aPL77jQv1IhGLivp45LdDBVr\nRlPdrvpOjHg7t1tAEA3iO6iJf3ecmMxiTBz6TIb/DaYb2kgA2r2Fhf/ToOWEi5++\nzI1fsDLhRZu7hK2urSa1lSsp05sPXZ4/MQ6oBQKBgAgFDvmizuCOPGAdmIMCIcf8\nSNapRYd0TABueHd0f1Y8tff77Y4gVjTldO4g0203PMEiHPYZcgEnWPmQDsPofo26\nCynFZcE5R6ErJXyAf+Sv/NdVANFD3KGcIdj4I0Fnzv928WDgJG8YNgiupJoCSdEU\nqpHUvEsOWgyM1SZS6vAA\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@blend-gsheet-and-jupyter.iam.gserviceaccount.com",
+  "client_id": "118176773359042505011",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40blend-gsheet-and-jupyter.iam.gserviceaccount.com"
+}
